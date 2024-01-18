@@ -1,5 +1,5 @@
 # Проект: Исследование продаж продуктов питания через мобильное приложение
-[Notebook] [HTML]
+[Notebook] [HTML](https://github.com/ana-stashia/Portfolio/blob/main/2.%20Sales_products_in_mobapp/2.Sales_products_mobapp.html)
 
 **Цели исследования:**
 1. Определить конверсию в покупку
