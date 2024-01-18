@@ -1,5 +1,6 @@
-[Notebook](https://github.com/ana-stashia/Portfolio/blob/main/1.%20Sales_computer_games/1.%20Sales_computer_games.ipynb) [HTML]
 # Исследование данных о продажах компьютерных игр в 2016 году
+[Notebook](https://github.com/ana-stashia/Portfolio/blob/main/1.%20Sales_computer_games/1.%20Sales_computer_games.ipynb) [HTML](https://github.com/ana-stashia/Portfolio/blob/main/1.%20Sales_computer_games/1.%20Sales_computer_games.html)
+
 **Цель исследования:** 
 
 Определить факторы, влияющие на успешность продаж игр для планирования рекламной кампании на 2017 год.
