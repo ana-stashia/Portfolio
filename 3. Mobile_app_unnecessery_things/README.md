@@ -45,5 +45,5 @@
 5. Общий вывод и рекомендации
 
 Также cформированы:
-- презентация;
+- [презентация](https://github.com/ana-stashia/Portfolio/blob/main/3.%20Mobile_app_unnecessery_things/Mobile_app_unnecessery_things.pdf);
 - [дашборд](https://public.tableau.com/views/Mobile_App_unnecessery_things/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) .
