@@ -1,5 +1,7 @@
 # Mобильное приложение сервиса "Ненужные вещи"
 
+[Notebook] [HTML](https://github.com/ana-stashia/Portfolio/blob/main/3.%20Mobile_app_unnecessery_things/Mobile_app_unnecessery_things.html)
+
 **Цель исследования:** выделить наиболее перспективный сегмент пользователей, который станет целевой аудиторией для развития приложения.
 
 **Основные задачи:**
