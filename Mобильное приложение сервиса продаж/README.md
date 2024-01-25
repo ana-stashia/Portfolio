@@ -1,6 +1,6 @@
 # Mобильное приложение сервиса "Ненужные вещи"
 
-[Notebook](https://github.com/ana-stashia/Portfolio/blob/main/3.%20Mobile_app_unnecessery_things/Mobile_app_unnecessery_things.ipynb) [HTML](https://github.com/ana-stashia/Portfolio/blob/main/3.%20Mobile_app_unnecessery_things/Mobile_app_unnecessery_things.html)
+[Notebook](https://github.com/ana-stashia/Yandex_practicum_projects/blob/main/M%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6/Mobile_app_unnecessery_things.ipynb) [HTML](https://github.com/ana-stashia/Yandex_practicum_projects/blob/main/M%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6/Mobile_app_unnecessery_things.html)
 
 **Цель исследования:** выделить наиболее перспективный сегмент пользователей, который станет целевой аудиторией для развития приложения.
 
@@ -22,5 +22,5 @@ Pandas, Plotly, Python, Seaborn, Tableau
 
 
 Также cформированы:
-- [презентация](https://github.com/ana-stashia/Portfolio/blob/main/3.%20Mobile_app_unnecessery_things/Mobile_app_unnecessery_things.pdf);
+- [презентация](https://github.com/ana-stashia/Yandex_practicum_projects/blob/main/M%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6/Mobile_app_unnecessery_things.pdf);
 - [дашборд](https://public.tableau.com/views/Mobile_App_unnecessery_things/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) .
